@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+
+section h1, section h2, section p, footer p, section a {
+    font-family: Verdana;
+}
+
+section h1, section h2 {
+    color: white;
+}
+
+section h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+section h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+section a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+section p, footer p {
+    color: gray;
+}
+
+section p {
+    font-size: 21px;
+}
+
+section {
+    text-align: center;
+}
+
+footer p {
+    text-align: right;
+}
